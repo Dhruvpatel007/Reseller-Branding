@@ -30,11 +30,4 @@ STEP 4. Run the application:
 ### `npm start`
 
 
-STEP 5. Please use below username & password for Login:
-### `resellerclient@gmail.com`
-### `PASSWORD: 12345`
-
-### `directclient@gmail.com`
-### `PASSWORD: 12345`
-
 
